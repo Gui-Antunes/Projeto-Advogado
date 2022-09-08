@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+#title, .subtitle, .posttitle {
+    color:goldenrod
+}
+
+
+.subtitle, .posttitle {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.text{ 
+    color: whitesmoke;
+    padding: 20px;
+
+} 
